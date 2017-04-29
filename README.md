@@ -2,5 +2,5 @@
 [Martin Fowler's Blog](https://martinfowler.com/articles/mocksArentStubs.html)
 [Design Pattern](https://hackernoon.com/object-oriented-tricks-3-death-by-arguments-d070ac86d996)
 
-#Learning & Its Application
+# Learning & Its Application
 [Lyst](https://making.lyst.com/)
