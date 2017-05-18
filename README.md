@@ -5,3 +5,7 @@
 
 # Learning & Its Application
 - [Lyst](https://making.lyst.com/)
+
+# Computer Vision
+- [Color Transfer](https://www.cs.tau.ac.il/~turkel/imagepapers/ColorTransfer.pdf)
+- [Visual Attribute Transfer through Deep Image Analogy](https://arxiv.org/pdf/1705.01088.pdf)
